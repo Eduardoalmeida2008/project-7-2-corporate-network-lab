@@ -1,7 +1,6 @@
 # project-7-2-corporate-network-lab
 Corporate network lab upgrade (Project 7.2) with 2 routers, 4 switches, 8 VLANs, ACL configuration, DHCP, and inter-VLAN communication. Consolidation of Project 7 with extended VLANs and improved access control.
 
-# Project 7.2 – Corporate Network Lab Upgrade
 
 ## Overview
 Project 7.2 is an upgraded and consolidated version of Project 7. It simulates a corporate network environment with multiple VLANs, ACLs, DHCP configuration, and inter-VLAN routing. This lab is designed to practice real-world network configuration, access control, and troubleshooting in a Cisco environment.
